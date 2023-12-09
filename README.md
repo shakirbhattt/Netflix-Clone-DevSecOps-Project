@@ -14,8 +14,6 @@
   <p align="center">Home Page</p>
 </div>
 
-# **Youtube Video for step by step Demonstration By Cloud Champ!**
-https://youtu.be/g8X5AoqCJHc
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
